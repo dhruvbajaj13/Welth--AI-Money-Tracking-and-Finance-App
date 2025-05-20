@@ -1,4 +1,4 @@
-
+WELTH- AI MONEY TRACKING AND FINANCE PLATFORM 💸
 
 Welth is an AI-powered personal finance management app built with modern full stack technologies. It enables users to track income, expenses, and budgets while leveraging Gemini AI to scan and auto-fill data from receipts.
 
