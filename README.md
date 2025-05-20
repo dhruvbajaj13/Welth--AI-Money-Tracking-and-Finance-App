@@ -47,7 +47,7 @@ Receipt Scanning with Gemini AI: Upload receipts and let AI extract and structur
 
 🛠️ Installation
 
-git clone https://github.com/yourusername/wealth.git
+git clone https://github.com/dhruvbajaj13/wealth.git
 cd wealth
 npm install
 
