@@ -47,7 +47,7 @@ Receipt Scanning with Gemini AI: Upload receipts and let AI extract and structur
 
 🛠️ Installation
 
-git clone https://github.com/dhruvbajaj13/welth.git
+git clone https://github.com/dhruvbajaj13/Welth-AI-Money-Tracking-and-Finance-App
 cd welth
 npm install
 
