@@ -1,36 +1,87 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
 
-First, run the development server:
+Welth is an AI-powered personal finance management app built with modern full stack technologies. It enables users to track income, expenses, and budgets while leveraging Gemini AI to scan and auto-fill data from receipts.
 
-```bash
+🔥 Tech Stack
+
+Framework: Next.js
+
+Backend: Supabase, Prisma
+
+UI & Styling: Tailwind CSS, ShadCN UI
+
+AI Integration: Gemini AI for receipt scanning
+
+Job Scheduling: Inngest
+
+CI/CD & DevTools: ArcJet
+
+
+🚀 Features
+
+Secure login and user authentication via Supabase
+
+Add, edit, and delete transactions
+
+Gemini AI-powered receipt scanning (auto extracts amount, date, and category)
+
+Visual dashboards and insights
+
+Responsive, mobile-friendly design
+
+Beautiful UI with ShadCN components
+
+Scheduled tasks and workflows via Inngest
+
+
+📽 Demo
+
+Watch the full tutorial and demo here:-
+
+https://photos.app.goo.gl/ruvFHMU49hLALLKL8
+
+🧠 AI Capabilities
+
+Receipt Scanning with Gemini AI: Upload receipts and let AI extract and structure expense data
+
+
+🛠️ Installation
+
+git clone https://github.com/yourusername/wealth.git
+cd wealth
+npm install
+
+Create a .env file and configure the following:
+
+NEXT_PUBLIC_SUPABASE_URL=your_url
+NEXT_PUBLIC_SUPABASE_ANON_KEY=your_key
+GEMINI_API_KEY=your_key
+
+Run locally:
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+📌 Upcoming Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Budget creation & tracking
 
-## Learn More
+Export data to CSV
 
-To learn more about Next.js, take a look at the following resources:
+Group/shared accounts
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Voice input for transactions
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+📄 License
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+MIT License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+
+
+
+
+ 
+
